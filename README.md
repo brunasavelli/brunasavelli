@@ -51,14 +51,6 @@ Veja todos os projetos [aqui](https://github.com/brunasavelli?tab=repositories).
 
 ---
 
-## ✨ Curiosidades
-
-- Amo desafios de programação!
-- Apaixonada por café ☕ e viagens ✈️
-- Sempre aberta a novas ideias e colaborações.
-
----
-
 > **“O sucesso é a soma de pequenos esforços repetidos dia após dia.”**
 
 ---
