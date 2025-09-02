@@ -6,9 +6,8 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos, conquistas
 
 ## 🚀 Sobre mim
 
-- 🎓 **Formação:** [Sua formação]
-- 💼 **Atuação:** [Sua área/cargo atual]
-- 💡 **Interesses:** Desenvolvimento Web, Data Science, IA, Automação, UX/UI Design
+- 🎓 **Formação:** [Análise e Desenvolvimento de Sistemas - SENAI]
+- 💡 **Interesses:** Desenvolvimento Web, Mobile, APIs, UX/UI Design
 - 🏆 **Objetivos:** Aprender, colaborar e compartilhar conhecimento
 
 ---
@@ -27,9 +26,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos, conquistas
 
 ## 📂 Projetos em Destaque
 
-- [Nome do Projeto 1](link) — Pequena descrição.
-- [Nome do Projeto 2](link) — Pequena descrição.
-- [Nome do Projeto 3](link) — Pequena descrição.
+- [GlamSync](https://github.com/brunasavelli/GlamSync-Mobile.git) — Projeto da rede social GlamSync.
+- [ToDo List](https://github.com/brunasavelli/ToDoList.git) — App de lista de tarefas.
+- [API Harry Potter](https://github.com/brunasavelli/project-api-harrypotter.git) — Site que apresenta API dos personagens de Harry Potter.
 
 Veja todos os projetos [aqui](https://github.com/brunasavelli?tab=repositories).
 
@@ -37,9 +36,8 @@ Veja todos os projetos [aqui](https://github.com/brunasavelli?tab=repositories).
 
 ## 🌱 Atualmente aprendendo
 
-- [Tecnologia ou linguagem]
-- [Framework ou ferramenta]
-- [Tema de interesse]
+- [JavaScript]
+- [React Native]
 
 ---
 
