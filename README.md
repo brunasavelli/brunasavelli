@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos, conquistas
 
 ## 🚀 Sobre mim
 
-- 🎓 **Formação:** [Análise e Desenvolvimento de Sistemas - SENAI]
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas - SENAI
 - 💡 **Interesses:** Desenvolvimento Web, Mobile, APIs, UX/UI Design
 - 🏆 **Objetivos:** Aprender, colaborar e compartilhar conhecimento
 
@@ -36,8 +36,8 @@ Veja todos os projetos [aqui](https://github.com/brunasavelli?tab=repositories).
 
 ## 🌱 Atualmente aprendendo
 
-- [JavaScript]
-- [React Native]
+- JavaScript
+- React Native
 
 ---
 
