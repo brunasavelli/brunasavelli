@@ -42,7 +42,7 @@ Veja todos os projetos [aqui](https://github.com/brunasavelli?tab=repositories).
 
 ## 💬 Fale comigo!
 
-- [LinkedIn](https://www.linkedin.com/in/brunasavelli/)
+- [LinkedIn](www.linkedin.com/in/brunasavelli)
 - [E-mail](mailto:brunanascimentosavelli@gmail.com)
 
 ---
