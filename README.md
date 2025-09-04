@@ -15,11 +15,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra meus projetos, conquistas
 ## 📈 Minhas Estatísticas no GitHub
 
 <div align="center">
-  
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=brunasavelli&show_icons=true&theme=github_dark&hide_title=true" alt="Estatísticas do GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasavelli&layout=compact&theme=github_dark" alt="Linguagens mais usadas" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasavelli&layout=compact&theme=github_dark" alt="Linguagens mais usadas" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brunasavelli&show_icons=true&theme=github_dark&hide_title=true" alt="Estatísticas do GitHub" width="400" height="200"/>
   
 </div>
 
